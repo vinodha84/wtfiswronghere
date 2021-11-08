@@ -1,0 +1,1 @@
+Changed the input parameter to 100(fizzbuzz(100))
